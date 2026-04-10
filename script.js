@@ -119,9 +119,10 @@ function initTyped() {
   const words = [
     'Full Stack Developer',
     'UI / UX Designer',
-    'ML Enthusiast',
+    'loves speaking',
     'Open Source Contributor',
-    'Coffee Addict ☕'
+    'Dancer',
+    'Extrovert'
   ];
   let wordIdx = 0;
   let charIdx = 0;
